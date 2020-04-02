@@ -22,7 +22,6 @@ namespace Ups.Business.Notificacoes
         {
             return _notificacoes;
         }
-
         public bool TemNotificacao()
         {
             return _notificacoes.Any();

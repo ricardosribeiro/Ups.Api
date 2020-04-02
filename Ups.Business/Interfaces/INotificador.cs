@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using Ups.Business.Notificacoes;
 
 namespace Ups.Business.Interfaces

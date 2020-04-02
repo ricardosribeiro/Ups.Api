@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
-using Ups.Api.Enums;
 using Ups.Business.Enums;
 
 namespace Ups.Api.ViewModels
@@ -25,7 +21,7 @@ namespace Ups.Api.ViewModels
         [Required]
         public int QtdeQuartos { get; set; }
         [Required]
-        public int QtdeBanheiro { get; set; }
+        public int QtdeBanheiros { get; set; }
         [Required]
         public bool PossuiSuite { get; set; }
         [Required]

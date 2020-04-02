@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using Ups.Business.Enums;
 
 namespace Ups.Business.Entities
 {
@@ -13,7 +12,7 @@ namespace Ups.Business.Entities
         public decimal AreaTotal { get; set; }
         public int QtdeVagas { get; set; }
         public int QtdeQuartos { get; set; }
-        public int QtdeBanheiro { get; set; }
+        public int QtdeBanheiros { get; set; }
         public bool PossuiSuite { get; set; }
         public string Descricao { get; set; }
 
