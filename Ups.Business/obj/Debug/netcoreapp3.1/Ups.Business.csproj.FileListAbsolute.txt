@@ -1,0 +1,5 @@
+C:\Labs\Core\Ups.Api\Ups.Business\bin\Debug\netcoreapp3.1\Ups.Business.deps.json
+C:\Labs\Core\Ups.Api\Ups.Business\bin\Debug\netcoreapp3.1\Ups.Business.dll
+C:\Labs\Core\Ups.Api\Ups.Business\obj\Debug\netcoreapp3.1\Ups.Business.csprojAssemblyReference.cache
+C:\Labs\Core\Ups.Api\Ups.Business\obj\Debug\netcoreapp3.1\Ups.Business.AssemblyInfoInputs.cache
+C:\Labs\Core\Ups.Api\Ups.Business\obj\Debug\netcoreapp3.1\Ups.Business.AssemblyInfo.cs
